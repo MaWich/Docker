@@ -13,7 +13,7 @@ A [ChangeLog.md](ChangeLog.md) is available.
 
 ## Contact
 
-Maik Wichmann <maik@dbx043.de>
+Maik Wichmann <maik@dbx943.de>
 
 
 [Alpine Linux]: http://www.alpinelinux.org
