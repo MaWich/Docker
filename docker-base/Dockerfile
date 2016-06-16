@@ -1,4 +1,4 @@
-# VERSION 3.4
+# VERSION 1.0 with Apline Linux 3.4
 # AUTHOR:         Maik Wichmann
 # DESCRIPTION:    Docker/base
 
